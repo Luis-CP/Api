@@ -1,0 +1,33 @@
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\appsettings.json
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\apicon net.exe
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\apicon net.deps.json
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\apicon net.runtimeconfig.json
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\apicon net.dll
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\apicon net.pdb
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\apicon net.csproj.AssemblyReference.cache
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\apicon net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\apicon net.AssemblyInfoInputs.cache
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\apicon net.AssemblyInfo.cs
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\apicon net.csproj.CoreCompileInputs.cache
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\apicon net.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\apicon net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\staticwebassets\msbuild.apicon net.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\staticwebassets\msbuild.build.apicon net.props
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apicon net.props
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apicon net.props
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\scopedcss\bundle\apicon net.styles.css
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\apicon net.csproj.CopyComplete
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\apicon net.dll
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\refint\apicon net.dll
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\apicon net.pdb
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\apicon net.genruntimeconfig.cache
+C:\Users\Conectados\Desktop\Nueva carpeta\apicon net\obj\Debug\net7.0\ref\apicon net.dll
