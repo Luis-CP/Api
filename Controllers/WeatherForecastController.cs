@@ -33,7 +33,7 @@ public class WeatherForecastController : ControllerBase
 
     [HttpGet(Name = "GetWeatherForecast")]
 
-    [Route("get/weatherforecast")]//la opccion route sirve para poder multiples enrutamientos a funciones do pedidos http
+    //[Route("get/weatherforecast")]//la opccion route sirve para poder multiples enrutamientos a funciones do pedidos http
     public IEnumerable<WeatherForecast> Get()
     {
        return ListWeatherForecasts;
